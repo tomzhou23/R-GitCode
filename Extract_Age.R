@@ -1,6 +1,6 @@
 ## 处理乱年龄，3岁11月，1岁2月，8月5天，7岁等
 
-# import data
+# import data please check directory
 
 mydata <- read.csv("C:/R Projects/learning/age.csv")
 
